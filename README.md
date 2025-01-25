@@ -1,4 +1,4 @@
-[![MasterHead](https://trendlyne-media-mumbai-new.s3.amazonaws.com/post-files/2023-08-16/4229744-3a5d8f42f2434b98ad6728e38f5e0ede.gif)
+![MasterHead](https://trendlyne-media-mumbai-new.s3.amazonaws.com/post-files/2023-08-16/4229744-3a5d8f42f2434b98ad6728e38f5e0ede.gif)
 <h1 align="center">Hi 👋, I'm Shweta Mishra</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif">
